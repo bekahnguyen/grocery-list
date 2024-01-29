@@ -1,0 +1,59 @@
+
+
+h1 {
+    text-align:center;
+    background-color:blanchedalmond;
+    padding-bottom:15px;
+
+}
+.cart{
+    height:50px;
+    padding-left:20px;
+    padding-top: 10px;
+}
+        
+
+h2 {
+    font-size: 30px;
+    text-align:center;
+    border-style:dashed;
+    background-color: blanchedalmond;
+    
+}
+
+.container{ 
+    display:flex;
+    justify-content: space-around;
+    font-size:20px;
+    padding:20px;
+}
+
+.Produce{
+    background-color:aquamarine;
+}
+
+.Fruit{
+    background-color:aqua;
+}
+
+#picture{
+    width: 250px;
+    height:250px;
+}
+
+.Protein{
+    background-color:rgb(202, 232, 178);
+}
+.Essentials{
+    background-color: brown;
+}
+
+#extras{
+    list-style-type:georgian;
+}
+
+h3{
+    text-align:center;
+    border-style:dashed;
+    background-color:blanchedalmond;
+}
